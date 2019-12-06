@@ -1,6 +1,6 @@
 import RateQuoteClient, { PropertyType, Occupancy } from "./RateQuoteClient";
 
-fetch = jest.fn();
+window.fetch = jest.fn();
 
 const validQuotes = [
   {
