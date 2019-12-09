@@ -33,8 +33,6 @@ test("fetches quotes and shows results", async () => {
   );
   userEvent.selectOptions(getByLabelText("Occupancy"), Occupancy.Investment);
 
-  // await waitForDomChange();
-
   // No result table
   expect(queryByText("Closing Costs")).toBeNull();
 

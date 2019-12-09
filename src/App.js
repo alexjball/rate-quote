@@ -31,7 +31,7 @@ class App extends Component {
   render() {
     const quotes = this.state.quotes;
     return (
-      <div>
+      <div className="App">
         <SearchForm
           onQuoteRequested={formInfo => this.requestQuotes(formInfo)}
         />
