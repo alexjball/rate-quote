@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/alexjball/json-dom.svg?branch=master)](https://travis-ci.com/alexjball/json-dom)
+[![Build Status](https://travis-ci.com/alexjball/rate-quote.svg?branch=master)](https://travis-ci.com/alexjball/rate-quote)
 
 # rate-quote
 
