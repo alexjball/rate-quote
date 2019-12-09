@@ -11,3 +11,5 @@ REACT_APP_API_KEY="Your API key"
 ```
 
 Run `npm start` to run the web page. The dev server will load the variables from `.env.local` and the client will be able to access the API.
+
+![rate-quote](https://user-images.githubusercontent.com/8595776/70400551-7d6bf680-19f9-11ea-9e19-80404b3031bb.png)
